@@ -30,6 +30,7 @@
   display: flex;
   flex-direction: column;
   overflow-y: hidden;
+  margin-top: -1.5rem; // FG Hack to align with the top of the page
 
   min-height: 1.2rem;
   flex: 0 1 auto;
@@ -112,13 +113,13 @@ button.desktop-explorer {
     font-size: 1rem;
     display: inline-block;
     margin: 0;
-    // margin-bottom: 20px;
   }
 }
 
 .explorer-content {
   list-style: none;
   overflow: hidden;
+  // overflow: auto;
   overflow-y: auto;
   margin-top: 0.5rem;
   // margin: 0 0 0 0.5rem;
