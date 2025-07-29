@@ -39,6 +39,8 @@ export const defaultContentPageLayout: PageLayout = {
       ],
     }),
     Component.Explorer(),
+    // ADD YOUR CUSTOM LINKS COMPONENT HERE
+    Component.Links(), // Use your new custom component
   ],
   right: [
     Component.Graph(),
