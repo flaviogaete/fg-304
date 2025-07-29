@@ -1,7 +1,7 @@
 ---
 title: Musician, Sound Designer
 ---
-![](https://res.cloudinary.com/dlalvkjmh/image/upload/v1753810174/FIC5_zkhedh.jpg)
+![](https://ik.imagekit.io/flaviogaete/fg.info/FIC5.jpg?updatedAt=1753828191454)
 
 Since 2013, I've been immersed in the dramatic arts. I'm currently working as both music director and managing director for [New Place Players](https://www.newplaceplayers.org/), a Shakespeare theater company based in NYC. So far, we've produced _Twelfth Night_, _A Midsummer Night's Dream_, _The Tempest_, _Othello_, and most recently _The Masque of Night_, a _Romeo & Juliet_ cabaret.
 
