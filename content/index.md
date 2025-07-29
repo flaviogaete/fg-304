@@ -1,5 +1,6 @@
 ---
 title: Musician | Sound Designer
 ---
+![](https://uc08f41bec71fc2883a2ad933943.previews.dropboxusercontent.com/p/thumb/ACsxwjlWG_JzwgI21bbPh5-3TPtEsMAc61PlKe739bTEnV33DYzA61lYCtV5aAsEITncYof33is3D68fjzZTRW02toW8sJNJYAuVM_SxVPv9WlWFca5_sd6aQaXwP91KCFSU8BzJcuBgAvmmUbxNeuN-Zb2sK6EMLbcT7ddYRCzUtOcyTtKpT-4sSUImYVXKrxYhzLn5frm_dEZrRiAkLVdwRr0ETCM_Dhv_NNk-i-p92e7O9SK631przeNB570WPyyS0-7oBGindtANq8PMMRUmAEFihPw_xrERPWrClrluzdEMezgkHNc0m5QCMYQ5i1h4rxrBv6IxueRDr-QnDoIA9tU5FlMveFm_37GWw-NUFEVQLfOCYztAtYTIn2DhPLM/p.jpeg?is_prewarmed=true)
 
 About Flavio Gaete
