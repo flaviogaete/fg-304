@@ -1,7 +1,6 @@
 ---
-title: "How to publish Obsidian notes with Quartz on GitHub Pages"
+title: This is actually Page 1
 draft: false
 tags:
-  - 
 ---
- 
+Hello again! 
