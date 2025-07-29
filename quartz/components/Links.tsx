@@ -16,6 +16,7 @@ function MyLinks({ displayClass }: QuartzComponentProps) {
 }
 
 MyLinks.css = `
+
 .links-section h4 {
   font-size: 1em;
   text-decoration: underline;
@@ -35,7 +36,7 @@ MyLinks.css = `
   text-decoration: none;
   color: var(--dark); /* Adjust color as needed */
   display: flex;
-  align-items: start;
+  align-items: center;
 }
 
 .links-section a:hover {

@@ -116,8 +116,16 @@ export default ((userOpts?: Partial<Options>) => {
             <polyline points="6 9 12 15 18 9"></polyline>
           </svg>
         </button>
+        
         <div class="explorer-content" aria-expanded={false}>
           <OverflowList class="explorer-ul" />
+          {/* HERE FG INTERVENE */}
+          <ul>
+            <li>
+              <a href="https://flaviogaete-info.onrender.com/portfolio" target="_blank" rel="noopener noreferrer">Portfolio</a>
+            </li>
+          </ul>
+          
         </div>
         <template id="template-file">
           <li>

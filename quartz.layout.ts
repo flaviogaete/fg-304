@@ -42,7 +42,7 @@ export const defaultContentPageLayout: PageLayout = {
     }),
     Component.Explorer({title: "Menu"}),
     // ADD YOUR CUSTOM LINKS COMPONENT HERE
-    Component.Links(), // Use your new custom component
+    // Component.Links(), // Use your new custom component
   ],
   right: [
     // Component.Graph(),
