@@ -122,7 +122,7 @@ export default ((userOpts?: Partial<Options>) => {
           {/* HERE FG INTERVENE */}
           <ul>
             <li>
-              <a href="https://flaviogaete-info.onrender.com/portfolio" target="_blank" rel="noopener noreferrer">Portfolio</a>
+              <a href="https://flaviogaete-info.onrender.com/portfolio" target="_blank" rel="noopener noreferrer">Archive</a>
             </li>
           </ul>
           
