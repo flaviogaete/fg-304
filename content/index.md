@@ -1,6 +1,10 @@
 ---
 title: Musician | Sound Designer
 ---
-![](https://uc08f41bec71fc2883a2ad933943.previews.dropboxusercontent.com/p/thumb/ACsxwjlWG_JzwgI21bbPh5-3TPtEsMAc61PlKe739bTEnV33DYzA61lYCtV5aAsEITncYof33is3D68fjzZTRW02toW8sJNJYAuVM_SxVPv9WlWFca5_sd6aQaXwP91KCFSU8BzJcuBgAvmmUbxNeuN-Zb2sK6EMLbcT7ddYRCzUtOcyTtKpT-4sSUImYVXKrxYhzLn5frm_dEZrRiAkLVdwRr0ETCM_Dhv_NNk-i-p92e7O9SK631przeNB570WPyyS0-7oBGindtANq8PMMRUmAEFihPw_xrERPWrClrluzdEMezgkHNc0m5QCMYQ5i1h4rxrBv6IxueRDr-QnDoIA9tU5FlMveFm_37GWw-NUFEVQLfOCYztAtYTIn2DhPLM/p.jpeg?is_prewarmed=true)
+![[B8MRxc12.jpeg]]
 
-About Flavio Gaete
+Since 2013, I've been immersed in the dramatic arts. I'm currently working as both music director and managing director for [New Place Players](https://www.newplaceplayers.org/), a Shakespeare theater company based in NYC. So far, we've produced _Twelfth Night_, _A Midsummer Night's Dream_, _The Tempest_, _Othello_, and most recently _The Masque of Night_, a _Romeo & Juliet_ cabaret.
+
+The soundtracks have become a combination of songs (from Elizabethan to contemporary, plus a few originals), live sound design, and – a part of our creative work that has grown with time – live incidental, improvised music that is both driven by the iambic pentameter and the rhythm of the actors, as well as influencing their psychology, their world.
+
+In that context, I've been developing my craft as a music producer, multi-instrumentalist, songwriter, sound designer and developer of software instruments. By the nature of the trade, I've also engaged in acting (lately playing the Prince and Friar Lawrence in _Romeo & Juliet_), while all along continuing to contribute as a pedagogue and arts administrator.
