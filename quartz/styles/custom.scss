@@ -1,3 +1,10 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+svg {
+    // fill: var(--quartz-color-text);
+    // fill: #284b63;
+    fill: var(--secondary);
+    width: 1.2em;
+    height: 1.2em;
+    }

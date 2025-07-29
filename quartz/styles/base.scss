@@ -92,7 +92,9 @@ a {
   color: var(--secondary);
 
   &:hover {
-    color: var(--tertiary);
+    // color: var(--tertiary);
+    // color: var(--secondary);
+    color: none;
   }
 
   &.internal {
