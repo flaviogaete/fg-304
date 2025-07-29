@@ -3,21 +3,11 @@ import { QuartzComponentConstructor, QuartzComponentProps } from "./types"
 function MyLinks({ displayClass }: QuartzComponentProps) {
   return (
     <div className={`links-section ${displayClass ?? ""}`}>
-      <h3>My External Links</h3> {/* Optional title for your section */}
+      <h4>Archive</h4> {/* Optional title for your section */}
       <ul>
         <li>
-          <a href="https://github.com/your-github-username" target="_blank" rel="noopener noreferrer">
-            My GitHub Profile
-          </a>
-        </li>
-        <li>
-          <a href="https://www.your-blog.com" target="_blank" rel="noopener noreferrer">
-            My Personal Blog
-          </a>
-        </li>
-        <li>
-          <a href="https://example.com/resource" target="_blank" rel="noopener noreferrer">
-            A Favorite Resource
+          <a href="https://flaviogaete-info.onrender.com/portfolio" target="_blank" rel="noopener noreferrer">
+            Portfolio
           </a>
         </li>
       </ul>
@@ -26,6 +16,11 @@ function MyLinks({ displayClass }: QuartzComponentProps) {
 }
 
 MyLinks.css = `
+.links-section h4 {
+  font-size: 1em;
+  text-decoration: underline;
+}
+
 .links-section ul {
   list-style: none;
   padding: 0;
@@ -40,12 +35,12 @@ MyLinks.css = `
   text-decoration: none;
   color: var(--dark); /* Adjust color as needed */
   display: flex;
-  align-items: center;
+  align-items: start;
 }
 
 .links-section a:hover {
-  text-decoration: underline;
-  color: var(--highlight); /* Adjust hover color as needed */
+  text-decoration: none;
+  color: var(--dark); /*  Adjust hover color as needed */
 }
 `
 
