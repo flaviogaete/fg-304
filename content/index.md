@@ -10,3 +10,5 @@ The soundtracks have become a combination of songs (from Elizabethan to contempo
 In that context, I've been developing my craft as a music producer, multi-instrumentalist, songwriter, sound designer and developer of software instruments. By the nature of the trade, I've also engaged in acting (lately playing the Prince and Friar Lawrence in _Romeo & Juliet_).
 
 I also contribute as a pedagogue and arts administrator.
+
+[Download CV](https://ik.imagekit.io/flaviogaete/fg.info/Flavio%20Gaete%20CV%202021.pdf?updatedAt=1754016151867)

@@ -122,6 +122,9 @@ export default ((userOpts?: Partial<Options>) => {
           {/* HERE FG INTERVENE */}
           <ul>
             <li>
+              <a href="https://tally.so/r/31oRbQ" target="_blank" rel="noopener noreferrer">Contact</a>
+            </li>
+            <li>
               <a href="https://flaviogaete-info.onrender.com/portfolio" target="_blank" rel="noopener noreferrer">Archives</a>
             </li>
           </ul>
